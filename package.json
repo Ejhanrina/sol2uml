@@ -17,7 +17,7 @@
   "license": "MIT",
   "dependencies": {
     "commander": "^3.0.1",
-    "debug": "^4.1.1",
+    "debug": "^4.3.2",
     "js-graph-algorithms": "^1.0.18",
     "klaw": "^2.1.1",
     "request": "^2.88.0",
