@@ -20,7 +20,7 @@
     "debug": "^4.1.1",
     "js-graph-algorithms": "^1.0.18",
     "klaw": "^2.1.1",
-    "request": "^2.88.0",
+    "request": "^2.88.2",
     "solidity-parser-antlr": "0.4.11",
     "svg-to-png": "^4.0.0",
     "verror": "^1.10.0",
